@@ -344,4 +344,4 @@ logger.info("result:code={},msg={}", result.getCode(), result.getMsg());
 
 [![vKGCLT.png](https://s1.ax1x.com/2022/08/07/vKGCLT.png)](https://imgtu.com/i/vKGCLT)
 
-https://juejin.cn/post/7160840952855134239#heading-10
+责任链：https://juejin.cn/post/7160840952855134239#heading-10
