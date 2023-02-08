@@ -344,13 +344,4 @@ logger.info("result:code={},msg={}", result.getCode(), result.getMsg());
 
 [![vKGCLT.png](https://s1.ax1x.com/2022/08/07/vKGCLT.png)](https://imgtu.com/i/vKGCLT)
 
----
-
-使用过程中如遇到问题，可以通过公众号或者作者微信联系作者。
-
-公众号: MarkWord
-
-目前正在连载更新《Thinking in DDD》系列文章，未来将会对团队管理、架构方法论进行系列分享，欢迎关注
-[![vA1OFU.jpg](https://s1.ax1x.com/2022/08/01/vA1OFU.jpg)](https://imgtu.com/i/vA1OFU)
-[![vA8Dbt.jpg](https://s1.ax1x.com/2022/08/01/vA8Dbt.jpg)](https://imgtu.com/i/vA8Dbt)
-
+https://juejin.cn/post/7160840952855134239#heading-10
